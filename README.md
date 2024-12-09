@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um **buscador de CEP** desenvolvido em **React**, com um design interativo e um fundo animado de meteoros. O objetivo é permitir que os usuários pesquisem o CEP e visualizem as informações correspondentes, como o logradouro, bairro, cidade e estado. O projeto conta com uma interface moderna e animada para uma melhor experiência do usuário.
+Este projeto é um **buscador de CEP** desenvolvido em **React**, com um design interativo e um fundo com vídeo animado . O objetivo é permitir que os usuários pesquisem o CEP e visualizem as informações correspondentes, como o logradouro, bairro, cidade e estado. O projeto conta com uma interface moderna e animada para uma melhor experiência do usuário.
 
 ## Funcionalidades
 
